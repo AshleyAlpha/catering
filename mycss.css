@@ -1,0 +1,17 @@
+html{
+    background-color: antiquewhite
+}
+
+
+#list{
+    list-style-type: none;
+    font-family: calibri;
+    font-size: 40px;
+    color: teal;
+    
+}
+#par{
+    width: 800px;
+    color: teal;
+    font-size: 20px;
+}
